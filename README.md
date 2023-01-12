@@ -11,5 +11,5 @@ the Software consists of 4 modules:
 - Server Module
 - Application Module
 
-each module has API functions that validate specific data related to the transaction
+Each module has API functions that validate specific data related to the transaction
 
